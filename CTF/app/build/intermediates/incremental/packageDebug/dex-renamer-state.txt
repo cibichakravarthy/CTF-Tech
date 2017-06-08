@@ -1,0 +1,7 @@
+#Thu Jun 08 17:57:55 IST 2017
+base.0=C\:\\Users\\HP\\AndroidStudioProjects\\CTF\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c31ce131c40190a65311a0144c3ff936f779b87e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\HP\\AndroidStudioProjects\\CTF\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1506e45376265349b70d413583dabc83a93a0dd1\\classes.dex
+base.1=C\:\\Users\\HP\\AndroidStudioProjects\\CTF\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1506e45376265349b70d413583dabc83a93a0dd1
+file.0=C\:\\Users\\HP\\AndroidStudioProjects\\CTF\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c31ce131c40190a65311a0144c3ff936f779b87e\\classes.dex
